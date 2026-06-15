@@ -1,6 +1,6 @@
 {
   "name": "@lowwattlabs/n8n-nodes-clamav",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "n8n community node for ClamAV antivirus scanning via clamd TCP socket (SCAN, INSTREAM, STATS, batch directory scan, real-time monitor)",
   "keywords": [
     "n8n-community-node-package",
