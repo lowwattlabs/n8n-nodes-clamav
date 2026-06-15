@@ -7,7 +7,10 @@ n8n community node for **ClamAV antivirus scanning** — scan files and director
 
 ## ⚡ Get a License
 
-This node is free to use with a self-hosted ClamAV instance. For priority support and commercial deployment, [get a license →](https://buy.stripe.com/bJe9ASh0o0dx7Jd3NA9bO00)
+- **Monthly** — [$15/mo →](https://buy.stripe.com/28E9AS11q1hB5B53NA9bO04)
+- **Annual** — [$150/yr →](https://buy.stripe.com/6oUbJ09xWgcv1kP2Jw9bO05)
+
+Self-hosted ClamAV is free. The license covers priority support and commercial deployment.
 
 ## Features
 
