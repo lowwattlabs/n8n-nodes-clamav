@@ -2,6 +2,13 @@
 
 n8n community node for **ClamAV antivirus scanning** — scan files and directories for malware directly from your n8n workflows via clamd TCP socket.
 
+[![npm version](https://img.shields.io/npm/v/@lowwattlabs/n8n-nodes-clamav)](https://www.npmjs.com/package/@lowwattlabs/n8n-nodes-clamav)
+[![GitHub](https://img.shields.io/badge/GitHub-lowwattlabs%2Fn8n--nodes--clamav-blue)](https://github.com/lowwattlabs/n8n-nodes-clamav)
+
+## ⚡ Get a License
+
+This node is free to use with a self-hosted ClamAV instance. For priority support and commercial deployment, [get a license →](https://buy.stripe.com/bJe9ASh0o0dx7Jd3NA9bO00)
+
 ## Features
 
 - **SCAN** — scan files/paths for malware
@@ -62,4 +69,4 @@ Add your ClamAV credentials in n8n:
 
 ## License
 
-MIT © Low Watt Labs
+MIT © [Low Watt Labs](https://github.com/lowwattlabs)
